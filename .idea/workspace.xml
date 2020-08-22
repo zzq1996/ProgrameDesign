@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="ProgrameDesign" targetName="ProgrameDesign" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+      <configuration PROFILE_NAME="Default" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="79089e20-a9a3-4d73-89ba-4dee23f71b69" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FavoritesManager">
+    <favorites_list name="ProgrameDesign" />
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectId" id="1Us1tgwiBn4gY1toCsAZvkWpCzt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="CMakeSettings" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="ProgrameDesign">
+        <option name="myModuleName" value="ProgrameDesign" />
+      </console-settings>
+    </option>
+    <option name="myShowDebugConsoleByDefault" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ProgrameDesign" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ProgrameDesign" TARGET_NAME="ProgrameDesign" CONFIG_NAME="Default" RUN_TARGET_PROJECT_NAME="ProgrameDesign" RUN_TARGET_NAME="ProgrameDesign">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79089e20-a9a3-4d73-89ba-4dee23f71b69" name="Default Changelist" comment="" />
+      <created>1576130704496</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576130704496</updated>
+      <workItem from="1576130705911" duration="1759000" />
+      <workItem from="1576204647226" duration="744000" />
+      <workItem from="1576288631131" duration="4512000" />
+      <workItem from="1576465896788" duration="2537000" />
+      <workItem from="1576651501774" duration="2113000" />
+      <workItem from="1576666628789" duration="299000" />
+      <workItem from="1576895802860" duration="4039000" />
+      <workItem from="1576983344504" duration="7060000" />
+      <workItem from="1577068308590" duration="6479000" />
+      <workItem from="1577188887414" duration="149000" />
+      <workItem from="1577189464845" duration="121000" />
+      <workItem from="1578197649491" duration="313000" />
+      <workItem from="1578198289402" duration="137000" />
+      <workItem from="1578198441048" duration="36000" />
+      <workItem from="1578198488712" duration="247000" />
+      <workItem from="1578199623410" duration="302000" />
+      <workItem from="1578200005584" duration="109000" />
+      <workItem from="1578200173802" duration="29000" />
+      <workItem from="1578200286338" duration="6000" />
+      <workItem from="1578200809654" duration="181000" />
+      <workItem from="1578208647137" duration="6000" />
+      <workItem from="1578208663472" duration="143000" />
+      <workItem from="1578208852099" duration="62000" />
+      <workItem from="1578208924906" duration="21308000" />
+      <workItem from="1578747312082" duration="4193000" />
+      <workItem from="1578795307884" duration="9838000" />
+      <workItem from="1579003515229" duration="2812000" />
+      <workItem from="1579006680998" duration="876000" />
+      <workItem from="1579008139835" duration="17000" />
+      <workItem from="1579056221805" duration="5522000" />
+      <workItem from="1579173390305" duration="2937000" />
+      <workItem from="1579233859130" duration="7824000" />
+      <workItem from="1579345880321" duration="3748000" />
+      <workItem from="1579434968689" duration="15000" />
+      <workItem from="1580122841333" duration="13797000" />
+      <workItem from="1580451557454" duration="10146000" />
+      <workItem from="1580730123903" duration="10767000" />
+      <workItem from="1581420582998" duration="21231000" />
+      <workItem from="1581916327602" duration="5613000" />
+      <workItem from="1582009453012" duration="69000" />
+      <workItem from="1582009537148" duration="20000" />
+      <workItem from="1582009570851" duration="236000" />
+      <workItem from="1582009896436" duration="16000" />
+      <workItem from="1582010137617" duration="383000" />
+      <workItem from="1582010889823" duration="99000" />
+      <workItem from="1582011046060" duration="6351000" />
+      <workItem from="1582099009703" duration="4688000" />
+      <workItem from="1582192558629" duration="4088000" />
+      <workItem from="1582613978228" duration="13000" />
+      <workItem from="1582616551832" duration="84000" />
+      <workItem from="1582783344525" duration="482000" />
+      <workItem from="1582878906416" duration="779000" />
+      <workItem from="1588492321775" duration="1498000" />
+      <workItem from="1588575498280" duration="12080000" />
+      <workItem from="1589609657116" duration="214000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="329" y="277" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582011803706">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="329" y="277" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.1177@0.23.1920.1177" timestamp="1582011803706" />
+    <state x="773" y="334" key="#com.intellij.ide.util.MemberChooser" timestamp="1588672814267">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="773" y="334" key="#com.intellij.ide.util.MemberChooser/0.23.1920.1177@0.23.1920.1177" timestamp="1588672814267" />
+    <state x="698" y="365" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581924723829">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="698" y="365" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1920.1177@0.23.1920.1177" timestamp="1581924723829" />
+    <state width="1878" height="328" key="GridCell.Tab.0.bottom" timestamp="1588762397955">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="328" key="GridCell.Tab.0.bottom/0.23.1920.1177@0.23.1920.1177" timestamp="1588762397955" />
+    <state width="1878" height="328" key="GridCell.Tab.0.center" timestamp="1588762397955">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="328" key="GridCell.Tab.0.center/0.23.1920.1177@0.23.1920.1177" timestamp="1588762397955" />
+    <state width="1878" height="328" key="GridCell.Tab.0.left" timestamp="1588762397954">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="328" key="GridCell.Tab.0.left/0.23.1920.1177@0.23.1920.1177" timestamp="1588762397954" />
+    <state width="1878" height="328" key="GridCell.Tab.0.right" timestamp="1588762397955">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="328" key="GridCell.Tab.0.right/0.23.1920.1177@0.23.1920.1177" timestamp="1588762397955" />
+    <state width="1878" height="405" key="GridCell.Tab.1.bottom" timestamp="1581762369767">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="405" key="GridCell.Tab.1.bottom/0.23.1920.1177@0.23.1920.1177" timestamp="1581762369767" />
+    <state width="1878" height="405" key="GridCell.Tab.1.center" timestamp="1581762369766">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="405" key="GridCell.Tab.1.center/0.23.1920.1177@0.23.1920.1177" timestamp="1581762369766" />
+    <state width="1878" height="405" key="GridCell.Tab.1.left" timestamp="1581762369766">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="405" key="GridCell.Tab.1.left/0.23.1920.1177@0.23.1920.1177" timestamp="1581762369766" />
+    <state width="1878" height="405" key="GridCell.Tab.1.right" timestamp="1581762369766">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="405" key="GridCell.Tab.1.right/0.23.1920.1177@0.23.1920.1177" timestamp="1581762369766" />
+    <state x="461" y="250" width="1230" height="722" key="SettingsEditor" timestamp="1582013544088">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="461" y="250" width="1230" height="722" key="SettingsEditor/0.23.1920.1177@0.23.1920.1177" timestamp="1582013544088" />
+    <state x="509" y="354" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1581646714402">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="509" y="354" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1920.1177@0.23.1920.1177" timestamp="1581646714402" />
+    <state x="682" y="248" key="refactoring.ChangeSignatureDialog" timestamp="1581685204416">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="682" y="248" key="refactoring.ChangeSignatureDialog/0.23.1920.1177@0.23.1920.1177" timestamp="1581685204416" />
+    <state x="625" y="288" width="670" height="676" key="search.everywhere.popup" timestamp="1582202962492">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="625" y="288" width="670" height="676" key="search.everywhere.popup/0.23.1920.1177@0.23.1920.1177" timestamp="1582202962492" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/chapter3/Test3.cpp</url>
+          <line>20</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

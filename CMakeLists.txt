@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.15)
+project(ProgrameDesign)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(ProgrameDesign main.cpp chapter2/c3.cpp chapter2/c3.h chapter3/Expression.cpp chapter3/Expression.h chapter3/Selection.cpp chapter3/Selection.h chapter3/Loop.cpp chapter3/Loop.h chapter3/Test3.cpp chapter3/Test3.h chapter4/Function.cpp chapter4/Function.h chapter4/Test4.cpp chapter4/Test4.h chapter5/Enum.cpp chapter5/Enum.h chapter5/Array.cpp chapter5/Array.h chapter5/Union.cpp chapter5/Union.h chapter5/Pointer.cpp chapter5/Pointer.h chapter5/Reference.cpp chapter5/Reference.h chapter5/Test5.cpp chapter5/Test5.h chapter6/Section3.cpp chapter6/Section3.h chapter6/Section4.cpp chapter6/Section4.h chapter6/A.h chapter6/B.cpp chapter6/B.h chapter7/Stack.cpp chapter7/Stack.h chapter7/ArrayStack.cpp chapter7/ArrayStack.h chapter7/LinkedStack.cpp chapter7/LinkedStack.h chapter8/Max4.cpp chapter8/Max4.h chapter9/StudentScores.cpp chapter9/StudentScores.h chapter10/Exception.cpp chapter10/Exception.h)
